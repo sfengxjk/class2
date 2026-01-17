@@ -1,0 +1,27 @@
+-- CREATE TABLE teams (
+--   id INTEGER PRIMARY KEY,
+--   year INTEGER,
+--   name TEXT,
+--   park TEXT,
+--   wins INTEGER,
+--   losses INTEGER
+-- );
+-- CREATE TABLE players (
+--   id INTEGER PRIMARY KEY,
+--   first_name TEXT,
+--   last_name TEXT,
+--   bats TEXT,
+--   throws TEXT
+-- );
+-- CREATE TABLE stats (
+--   id INTEGER PRIMARY KEY,
+--   team_id INTEGER,
+--   player_id INTEGER,
+--   games INTEGER,
+--   at_bats INTEGER,
+--   runs INTEGER,
+--   hits INTEGER,
+--   doubles INTEGER,
+--   triples INTEGER,
+--   home_runs INTEGER,
+--   rbis INTEGER

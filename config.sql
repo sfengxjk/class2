@@ -5,3 +5,6 @@
 -- run `.help .mode` to view other options
 
 .headers on
+
+-- apt-get update
+-- apt-get install sqlite3
